@@ -16,8 +16,10 @@ export default{
   
  <AppHero/>
 
+
+
 </template>
 
-<style scoped>
+<style lang="css" scoped>
 
 </style>

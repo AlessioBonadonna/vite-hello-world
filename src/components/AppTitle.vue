@@ -11,6 +11,7 @@
 </script>
 
 <template>
+    
    <h1>{{titolo}}</h1>
    
 
@@ -19,7 +20,7 @@
 <style scoped lang="css">
 
 h1{
-    color : red;
+    color : rgb(58, 20, 20);
     text-align: center;
 }
 
