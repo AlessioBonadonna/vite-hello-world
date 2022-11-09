@@ -4,7 +4,7 @@ import AppHero from './components/AppHero.vue'
 export default{
   components:{
     AppTitle,
-    AppHero,
+    AppHero
   
   }
 }
@@ -13,12 +13,11 @@ export default{
 <template>
 
   <AppTitle/>
+  
  <AppHero/>
 
 </template>
 
 <style scoped>
-#app{
-  height: 100vh;
-}
+
 </style>
